@@ -1,5 +1,3 @@
-Bunu tek parça halinde kopyalayıp README.md içine yapıştır:
-
 ````md
 # Market AI Bot
 
@@ -319,3 +317,4 @@ Always combine technical analysis with:
 
 ```
 ```
+

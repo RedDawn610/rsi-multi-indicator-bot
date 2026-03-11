@@ -314,7 +314,3 @@ Always combine technical analysis with:
 * broader market context
 * sound judgment
 * proper risk management
-
-```
-```
-
